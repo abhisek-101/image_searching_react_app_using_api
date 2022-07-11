@@ -1,0 +1,12 @@
+.navbar__top {
+    height: 60px;
+    background-color: #2ecc71;
+}
+
+.navbar__search {
+    text-align: right;
+}
+
+.navbar__head {
+    line-height: 60px;
+}

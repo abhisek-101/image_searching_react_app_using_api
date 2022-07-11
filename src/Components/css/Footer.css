@@ -1,0 +1,23 @@
+.footer {
+    background-color: #27ae60;
+    color: #fff;
+}
+
+.h5 {
+    text-align: center;
+    margin: auto;
+}
+
+.h5::after {
+    content: '';
+    background-color: red;
+    height: 4px;
+}
+
+ul>li {
+    list-style-type: none;
+}
+
+small {
+    font-size: 13px;
+}
